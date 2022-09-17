@@ -1,0 +1,3 @@
+D:/projects/HackStart/Raytracing-Tutorial/out/build/x64-Debug/CMakeFiles/raytracer.dir
+D:/projects/HackStart/Raytracing-Tutorial/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/projects/HackStart/Raytracing-Tutorial/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
